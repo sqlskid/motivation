@@ -22,7 +22,7 @@ import java.util.concurrent.ThreadLocalRandom;
 @PluginDescriptor(
         name = "Motivation",
         description = "Get a little bit of motivation after death.",
-        tags = {"motivation", "death", "die", "pvp"},
+        tags = {"motivation", "death", "die", "pvp"}
 )
 public class MotivationPlugin extends Plugin {
 
