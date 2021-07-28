@@ -23,7 +23,6 @@ import java.util.concurrent.ThreadLocalRandom;
         name = "Motivation",
         description = "Get a little bit of motivation after death.",
         tags = {"motivation", "death", "die", "pvp"},
-        loadWhenOutdated = true
 )
 public class MotivationPlugin extends Plugin {
 
